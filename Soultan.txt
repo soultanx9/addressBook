@@ -1,0 +1,11 @@
+Novida;Wayan Sari;Jakarta;Jakarta;Indonesia;14320;085624742249
+Ahmad;Nabili;Jakarta;Jakarta;Indonesia;12345;92308422342
+Person1;Nabili;Jakarta;Jakarta;Indonesia;12345;92308422342
+Person2;Nabili;Jakarta;Jakarta;Indonesia;12345;92308422342
+Person3;Nabili;Jakarta;Jakarta;Indonesia;12345;92308422342
+Person4;Nabili;Jakarta;Jakarta;Indonesia;12345;92308422342
+Person5;Nabili;Jakarta;Jakarta;Indonesia;12345;92308422342
+Person6;Nabili;Jakarta;Jakarta;Indonesia;12345;92308422342
+Person7;Nabili;Jakarta;Jakarta;Indonesia;12345;92308422342
+Person8;Nabili;Jakarta;Jakarta;Indonesia;12345;92308422342
+Stephanus;Soekendar;Jakarta;Jakarta;Indonesia;1234;085624742249
